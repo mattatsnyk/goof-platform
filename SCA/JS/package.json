@@ -45,7 +45,7 @@
     "st": "1.2.2",
     "stream-buffers": "^3.0.1",
     "tap": "^15.0.0",
-    "tinymce": "5.10.7",
+    "tinymce": "7.0.0",
     "total.js": "3.4.9",
     "total4": "0.0.43",
     "typeorm": "^0.2.24"
